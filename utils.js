@@ -1,3 +1,1 @@
-function jumpToLink(url) {
-  window.open(url);
-}
+function(url){localtion.href=url}
