@@ -1,3 +1,3 @@
-function(url){
-localtion.href=url
+function(url) {
+localtion.href = url
 }
